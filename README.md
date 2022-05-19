@@ -7,7 +7,7 @@
 ## **Curso oferecido pelo [Instituto de Tecnologia Ituring](https://ituring.com.br/)**
 
 ### Instrutores do curso
-- Jô Souza
+- Jô Souza ()
 - [Thales Carvalho](https://github.com/thalescomp)
 - [Tiago Sestari](https://github.com/tiagosestari)
 
