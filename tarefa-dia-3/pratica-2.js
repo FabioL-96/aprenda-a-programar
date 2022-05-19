@@ -7,11 +7,7 @@
 let a = 10
 
 // Escreva depois dos ':' se vai entrar no 'if' ou no 'else' ('if' se entrar no 'if' e 'else' se entrar no 'else'): if 
-if (a == 10) {
-    console.log("Verdade! O valor ", a, " é igual a 10");
-} else {
-    console.log("Falso! O valor ", a, " não é igual a 10");
-}
+
 
 // Escreva depois dos ':' se vai entrar no 'if' ou no 'else' ('if' se entrar no 'if' e 'else' se entrar no 'else'): if
 if (a > 10) {
